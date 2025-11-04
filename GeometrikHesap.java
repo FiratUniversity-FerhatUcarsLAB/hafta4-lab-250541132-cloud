@@ -1,3 +1,9 @@
+/*
+*Ad Soyad: [Esmanur ULU]
+*Ogrenci No: [250541132]
+*Tarih: [04.11.2025]
+*Aciklama: [GeometrikHesap]
+*/
 import java.util.Scanner;
 import java.lang.Math;
 import java.text.DecimalFormat;
