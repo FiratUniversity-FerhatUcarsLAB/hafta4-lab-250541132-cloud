@@ -15,7 +15,6 @@ public class MaasHesap {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Kullanıcıdan verileri al
         System.out.print("Çalışanın Adı ve Soyadı: ");
         String adSoyad = input.nextLine();
 
