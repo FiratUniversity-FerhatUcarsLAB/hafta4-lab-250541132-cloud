@@ -1,3 +1,9 @@
+*/
+*Ad Soyad: [Esmanur ULU]
+*Ogrenci No: [250541132]
+*Tarih: [04.11.2025]
+*Aciklama: [ogrenciBilgi]
+*/
 import java.util.Scanner;
 
 public class OgrenciBilgi {
